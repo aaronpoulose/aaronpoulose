@@ -20,7 +20,7 @@ I'm an MSc Cyber Security student with a strong foundation in penetration testin
 
 ---
 
-### Projects & Labs (Coming Soon)
+### Projects & Labs 
 - **IOC Enrichment Tool** – Python script to enrich indicators using VirusTotal and AbuseIPDB
 - **Web App Pentest Lab** – OWASP Top 10 lab setup and findings documentation
 - **Forensics Case Studies** – System investigation and log analysis using Windows Event Logs and Volatility
