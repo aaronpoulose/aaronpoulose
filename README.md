@@ -27,10 +27,12 @@ I'm an MSc Cyber Security student with a strong foundation in penetration testin
 - **Detection & Alerting Lab** – MITRE ATT&CK-mapped detections using Sysmon logs and Sigma rules
 
 ---
-## 📖 Blog Post
-I wrote a detailed blog explaining how I built this tool, how it works, and how you can use it.
+### 🛡️ Security Projects
 
-👉 [How I Built an IOC Enrichment Tool Using VirusTotal]- https://medium.com/@aaronpaulose.n/how-i-build-a-ioc-enrichment-tool-using-python-and-virus-total-38fc043fac6f
+- **[IOC Enrichment Tool](https://github.com/aaronpoulose/ioc-enrichment-tool):**  
+  Python tool to enrich IOCs using VirusTotal.  
+  👉 [Read the blog](https://medium.com/@aaronpaulose.n/how-i-build-a-ioc-enrichment-tool-using-python-and-virus-total-38fc043fac6f)
+
 
 ### Certifications
 - Diploma in Networking and Cyber Security (2023)
